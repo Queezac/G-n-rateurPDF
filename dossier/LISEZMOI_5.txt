@@ -1,0 +1,7 @@
+Pour effectuer notre partie de scripte bash qui génère les pdf, nous avons due placé notre dossier contenant l'intégralité de nos scripts et images dans 
+/Docker/<identifiant>
+Une fois dedans, il faut effectuer un : 
+docker image pull sae103-html2pdf
+car on ne peux pas automatisé ça puis une fois la page html généré, nous avons juste à effectuer la commande : 
+docker run --rm -ti -v /Docker/<votre_login>/<nom_du_dossier>/Traitement:/work sae103-html2pdf "html2pdf pages.html <nom_désiré>.pdf"
+cette dernière génèrera une version pdf de notre html

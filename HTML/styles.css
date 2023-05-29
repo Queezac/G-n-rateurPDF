@@ -1,0 +1,179 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+   background-color: rgb(233, 233, 233);
+   margin: 0;
+   padding: 0;
+}
+
+/*----------------------------------------------------------------------------*/
+
+section {
+   height: 100vh;
+}
+
+/*----------------------------------------------------------------------------*/
+
+#s1 {
+   margin: 0 5%;
+   padding-top: 5%;
+   text-align: center;
+   line-height: 2em;
+}
+
+#s1 img {
+   margin-top: 3%;
+   height: 300px;
+   width: 300px;
+}
+
+
+/*----------------------------------------------------------------------------*/
+
+#s2{
+   margin: 0 5%;
+}
+
+#s2 h1{
+   padding-top: 5%;
+}
+
+#s2 p{
+   line-height: 1.5em;
+   text-align: justify;
+
+}
+
+#s2 h3 {
+   padding: 1em 0;
+}
+
+#s2 table {
+   background-color: rgb(216, 216, 216);
+   border-collapse: collapse;
+   text-align: center;
+   table-layout: fixed;
+   width: 100%;
+}
+
+#s2 td {
+   border: 1px solid black ;
+}
+
+#s2 thead td{
+   padding: 0.2em;
+   font-weight: bold;
+}
+
+#s2 tbody td{
+   padding: 0.5em;
+}
+
+.green {
+   color: green;
+}
+
+.red {
+   color: red;
+}
+
+/*----------------------------------------------------------------------------*/
+
+#s3{
+   padding-top: 5%;
+   margin: 0 5%;
+}
+
+#s3 h1{
+   padding-top: 5%;
+   text-align: center;
+   margin-bottom: 1em;
+   text-transform: uppercase;
+}
+
+#s3 hr {
+   width: 50%;
+   margin: auto;
+}
+
+#s3 ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+
+   padding-top: 5%;
+}
+
+#s3 li {
+   list-style-type: none;
+   text-align: center;
+}
+
+#s3 img{
+   height: 300px;
+   width: 300px;
+}
+
+/*----------------------------------------------------------------------------*/
+
+#s4 {
+   text-align: center;
+}
+
+#s4 p{
+   padding-top: 5%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgb(54, 72, 88);
+
+}
+
+#s4 img{
+   margin-top: 3%;
+   height: 350px;
+   width: 350px;
+}
+
+/*----------------------------------------------------------------------------*/
+
+.bottom {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+
+
+   background-color: rgb(54, 72, 88);
+   color: aliceblue;
+   padding: 1em 5%;
+   min-height: 5rem;
+   font-weight: bold;
+}
+
+/*----------------------------------------------------------------------------*/
+
+
+/* @page { size: A4 } */
+
+@media print {
+   section {
+      border: 1px solid black;
+      width: 8.26in;
+      height: 11.66in;
+      margin: 0;
+      /* change the margins as you want them to be. */
+      page-break-after: always;
+   }
+}

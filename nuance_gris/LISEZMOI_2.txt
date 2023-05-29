@@ -1,0 +1,27 @@
+Conversion en PNG en nuances de gris des avatars fournis par le client  
+
+ 
+
+Dans les dossiers se placer à cet endroit  
+
+Docker/nomcompte 
+
+Créer un “dossier”
+
+Dans le dossier : 
+
+	Exécuter un docker image pull (pour récupérer les images du client) 
+
+	Placer le script  script_conversion.sh 
+
+ 
+
+Dans un autre terminal :   
+
+Lancer l’exécution du docker avec un  docker container run --rm -ti -v “dossier”-imagick 
+
+	Une fois dans le docker  
+
+		Placer le script + les images dans le docker (avec un cp) 
+
+		Exécuter le script avec  .script_conversion.sh 

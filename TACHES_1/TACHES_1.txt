@@ -1,0 +1,12 @@
+SAE 1.03 - INSTALLATION POSTE DE DÉVELOPPEMENT
+
+
+Partie 1- Répartition du travail de groupe :
+
+
+Page HTML/CSS				-	Salomé A. 	--> 65 % / Emma C.  --> 35%
+PHP pour traitement du texte		-	Mahé P.	--> 100 %
+Création du fichier region.conf		-	Dorian P. 	--> 100 %
+Documentation (LISEZMOI_1)		-	Martin LM. 	--> 40 % / Mahé P.	 --> 40 % / Emma C. 20%
+
+----------------------

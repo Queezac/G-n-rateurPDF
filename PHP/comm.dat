@@ -1,0 +1,57 @@
+		<ul>
+			<li>
+				<figure>
+					<img src="images/JOD.svg" alt="meilleur commerciaux 1">
+					<br>
+					<figaption>
+						<b> NOM :John Deuff</b>
+						<br>
+						CA : 47K€
+					</figaption>
+				</figure>
+			</li>
+			<li>
+				<figure>
+					<img src="images/MAZ.svg" alt="meilleur commerciaux 1">
+					<br>
+					<figaption>
+						<b> NOM :Maude Zarela</b>
+						<br>
+						CA : 32K€
+					</figaption>
+				</figure>
+			</li>
+			<li>
+				<figure>
+					<img src="images/OUL.svg" alt="meilleur commerciaux 1">
+					<br>
+					<figaption>
+						<b> NOM :Oussama Lairbon</b>
+						<br>
+						CA : 15K€
+					</figaption>
+				</figure>
+			</li>
+			<li>
+				<figure>
+					<img src="images/DES.svg" alt="meilleur commerciaux 1">
+					<br>
+					<figaption>
+						<b> NOM :Debby Scott</b>
+						<br>
+						CA : 44K€
+					</figaption>
+				</figure>
+			</li>
+			<li>
+				<figure>
+					<img src="images/SAT.svg" alt="meilleur commerciaux 1">
+					<br>
+					<figaption>
+						<b> NOM :Sacha Touille</b>
+						<br>
+						CA : 25K€
+					</figaption>
+				</figure>
+			</li>
+		</ul>

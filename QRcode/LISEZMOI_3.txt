@@ -1,0 +1,12 @@
+Génération QRcode automatiser :
+
+
+Dans les dossiers se placer a cet endoit :
+/Docker/<nomcompte>
+Créer un dossier
+Dans le dossier placer le script1 avec le fichier 'region.conf'
+
+se placer dans un terminal a cet endroit :
+/Docker/nomcompte/dossier
+Lancer la commande : chmod +x script1.sh
+Lancer le script dans un terminal : ./script1.sh

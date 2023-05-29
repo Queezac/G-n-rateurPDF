@@ -1,0 +1,12 @@
+SAE 1.03 - INSTALLATION POSTE DE DÉVELOPPEMENT
+
+Partie 2 :
+
+
+Nuances de gris				-	Dorian P. 	-->  100% + LISEZMOI_2
+Génération QRcode			-	Salomé A.	--> 100 % + LISEZMOI_3
+HTML en PHP				-	Martin LM. 	--> 100 % + LISEZMOI_4
+Génération PDF				-	Emma C. --> 50%  / Mahé P. --> 50% + LISEZMOI_5
+Automatisation				-	Mahé P. --> 50%  / Emma C. --> 50% + LISEZMOI_FINAL
+
+----------------------
